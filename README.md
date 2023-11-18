@@ -1,5 +1,3 @@
 # HomeworkAnswer
 
-:::info  
-markdown testing.  
-:::
+C Programming answer for NTOU CSIE 1B.
