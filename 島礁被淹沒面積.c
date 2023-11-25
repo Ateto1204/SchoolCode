@@ -8,11 +8,13 @@ int way[8][2] = {{1, 0}, {1, 1}, {0, 1}, {-1, 1},
 int t, n, ans;
 
 bool check(int x, int y) {
-	if(x-1 >= 0 && x+1 < n && y-1 >= 0 && y+1 < n) {
-		for(int i=0; i<8; i++) {
-			if(arr[x+way[i][0]][y+way[i][1]] == '0') return true;
-		}
-		return false;
+	if(arr[x][y] == '0') return false;
+	for(int i=0; i<8; i++) {
+		int nx = x + way[i][0];
+		int ny = y + way[i][1];
+		if(nx>=0 && nx<n && ny>=0 && ny<n) {
+			if(arr[nx][ny] == '0') return false;
+		}else return false;
 	}
 	return true;
 }
@@ -27,12 +29,7 @@ int main() {
 		ans = 0;
 		for(int i=0; i<n; i++) {
 			for(int j=0; j<n; j++) {
-				if(arr[i][j] == '1' && check(i, j)) arr[i][j] = '2';
-			}
-		}
-		for(int i=0; i<n; i++) {
-			for(int j=0; j<n; j++) {
-				if(arr[i][j] == '1') ans++;
+				if(check(i, j)) ans++;
 			}
 		}
 		printf("%d\n", ans);
