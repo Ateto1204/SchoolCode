@@ -1,3 +1,4 @@
 # HomeworkAnswer
 
-C Programming answer for NTOU CSIE 1B.
+1121 Semester NTOU CSIE 1B C Programming HW Answer.
+
