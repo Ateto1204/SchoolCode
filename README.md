@@ -1,4 +1,4 @@
-# School Source
+# School Code
 
 School Programming Class Source Code
 
