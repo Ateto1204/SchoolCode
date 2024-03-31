@@ -16,15 +16,15 @@
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
-        ListNode* dummy = head;
-        int n = 0;
-        while(dummy != NULL) {
-            dummy = dummy->next;
-            n++;
+        ListNode* quick = head;
+        ListNode* slow = head;
+        while(slow->next && quick->next) {
+            slow = slow->next;
+            quick = quick->next;
+            if(quick->next) {
+                quick = quick->next;
+            }
         }
-        for(int i = 0; i < n/2; i++) {
-            head = head->next;
-        }
-        return head;
+        return slow;
     }
 };
