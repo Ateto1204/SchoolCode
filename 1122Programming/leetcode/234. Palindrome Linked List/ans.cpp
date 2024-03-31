@@ -1,4 +1,10 @@
-/**
+/*
+ *
+ * https://leetcode.com/problems/palindrome-linked-list
+ * Problem ID: 234. Palindrome Linked List
+ * 
+ * Author: Ateto
+ * 
  * Definition for singly-linked list.
  * struct ListNode {
  *     int val;
