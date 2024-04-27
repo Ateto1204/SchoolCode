@@ -1,0 +1,49 @@
+Course name cannot be null or empty
+Maximum students must be a positive integer
+Course Java Programming successfully added
+Course Web Programming successfully added
+Course Translation and Gambling successfully added
+Student Alice successfully added to course Java Programming
+Student Bob successfully added to course Java Programming
+Student Charlie successfully added to course Java Programming
+Student David successfully added to course Java Programming
+Student Eason successfully added to course Java Programming
+Student Eason successfully removed from course Java Programming
+Student Frank successfully added to course Web Programming
+Student Grace successfully added to course Web Programming
+Student Henry successfully added to course Web Programming
+Student Eason is not enrolled in course Web Programming
+Student Ippei successfully added to course Translation and Gambling
+Student Shohei successfully added to course Translation and Gambling
+Cannot add student Alice, course Translation and Gambling has reached maximum capacity
+
+Found Course:
+Course: Java Programming
+Maximum Students: 60
+Students Enrolled:
+- Alice
+- Bob
+- Charlie
+- David
+
+Courses Information:
+Course: Java Programming
+Maximum Students: 60
+Students Enrolled:
+- Alice
+- Bob
+- Charlie
+- David
+
+Course: Web Programming
+Maximum Students: 70
+Students Enrolled:
+- Frank
+- Grace
+- Henry
+
+Course: Translation and Gambling
+Maximum Students: 2
+Students Enrolled:
+- Ippei
+- Shohei

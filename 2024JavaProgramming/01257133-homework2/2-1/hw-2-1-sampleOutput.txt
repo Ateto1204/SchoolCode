@@ -1,0 +1,60 @@
+---Earnings Calculation System:
+1. Salaried Employee
+2. Hourly Employee
+3. Commission Employee
+4. Piece Worker
+Please input (1~4, -1 to end): 2
+Please input wage: 1000
+Please input hours: 50
+Please input type of Bonus (1: static, 2: dynamic): 2
+
+---Earnings Calculation System:
+1. Salaried Employee
+2. Hourly Employee
+3. Commission Employee
+4. Piece Worker
+Please input (1~4, -1 to end): 1
+Please input weekly salary: 10000
+Please input working weeks: 4
+Please input type of Bonus (1: static, 2: dynamic): 1
+
+---Earnings Calculation System:
+1. Salaried Employee
+2. Hourly Employee
+3. Commission Employee
+4. Piece Worker
+Please input (1~4, -1 to end): 4
+Please input wage: 1000
+Please input piece: 60
+Please input type of Bonus (1: static, 2: dynamic): 2
+
+---Earnings Calculation System:
+1. Salaried Employee
+2. Hourly Employee
+3. Commission Employee
+4. Piece Worker
+Please input (1~4, -1 to end): 3
+Please input commission rate: 0.1
+Please input gross sales: 150000
+Please input type of Bonus (1: static, 2: dynamic): 2
+
+---Earnings Calculation System:
+1. Salaried Employee
+2. Hourly Employee
+3. Commission Employee
+4. Piece Worker
+Please input (1~4, -1 to end): -1
+Input finished!
+
+---Result:
+No. 1:
+Hourly Employee => hourly salary: 1,000, hours: 50, calculated earnings: 55,000, bonus: 5,500
+No. 2:
+Salaried Employee => weekly salary: 10,000, working weeks: 4, calculated earnings: 40,000, bonus: 10,000
+No. 3:
+Piece Worker => wage: 1,000, piece: 60, calculated earnings: 60,000, bonus: 6,000
+No. 4:
+Commission Employee => commission rate: 0.10, gross sales: 150,000, calculated earnings: 15,000, bonus: 1,500
+
+Total earnings: 170,000
+Total bonus: 23,000
