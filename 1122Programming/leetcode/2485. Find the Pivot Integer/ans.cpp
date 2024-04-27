@@ -7,17 +7,24 @@
 
 class Solution {
 private: 
-    int cal(int p, int q) {
+	int cal(int p, int q) {
         int tmp = (p + q) * (q - p + 1) / 2;
         return tmp;
     }
-public:
+public: 
     int pivotInteger(int n) {
-        for(int i = n; i >= 0; i--) {
-            int x = cal(1, i);
-            int y = cal(i, n);
-            if(x == y) return i;
-            if(x < y) break;
+        int left = 1;
+        int right = n;
+        while (left <= right) {
+            int mid = (left + right) >> 1;
+            int x = cal(1, mid);
+            int y = cal(mid, n);
+            if (x == y) return mid;
+            if (x < y) {
+                left = mid+1;
+            } else {
+                right = mid-1;
+            }
         }
         return -1;
     }
