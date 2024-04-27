@@ -1,0 +1,218 @@
+您的初始設定：
+玩家HP：176，配戴一般武器攻擊力：41、加倍武器攻擊力：51、強力武器攻擊力：37，Pet攻擊力：85
+
+請選擇: 1.攻擊 2.防禦 3.結束: 1
+
+USER攻擊前：
+HP of NPC: 1324.0
+USER攻擊：
+[NormalWeapon可造成 41 點的傷害]
+[DoubleWeapon可造成 51 點的傷害]
+[PowerWeapon可造成 44 點的傷害]
+[Pet可造成 81 點的傷害]
+NPC防禦：
+[NormalWeapon可抵擋 0 點的傷害]
+USER攻擊後：
+HP of NPC: 1107.0
+
+NPC攻擊前：
+HP of USER: 176.0
+NPC攻擊：
+[NormalWeapon可造成 50 點的傷害]
+USER防禦：
+[NormalWeapon可抵擋 5 點的傷害]
+[DoubleWeapon可抵擋 5 點的傷害]
+[PowerWeapon可抵擋 5 點的傷害]
+[Pet可抵擋 0 點的傷害]
+NPC攻擊後：
+HP of USER: 141.0
+
+請選擇: 1.攻擊 2.防禦 3.結束: 1
+
+USER攻擊前：
+HP of NPC: 1107.0
+USER攻擊：
+[NormalWeapon可造成 41 點的傷害]
+[DoubleWeapon可造成 51 點的傷害]
+[PowerWeapon可造成 44 點的傷害]
+[Pet可造成 34 點的傷害]
+NPC防禦：
+[NormalWeapon可抵擋 0 點的傷害]
+USER攻擊後：
+HP of NPC: 937.0
+
+NPC攻擊前：
+HP of USER: 141.0
+NPC攻擊：
+[NormalWeapon可造成 50 點的傷害]
+USER防禦：
+[NormalWeapon可抵擋 5 點的傷害]
+[DoubleWeapon可抵擋 5 點的傷害]
+[PowerWeapon可抵擋 5 點的傷害]
+[Pet可抵擋 0 點的傷害]
+NPC攻擊後：
+HP of USER: 106.0
+
+請選擇: 1.攻擊 2.防禦 3.結束: 1
+
+USER攻擊前：
+HP of NPC: 937.0
+USER攻擊：
+[NormalWeapon可造成 41 點的傷害]
+[DoubleWeapon可造成 51 點的傷害]
+[PowerWeapon可造成 44 點的傷害]
+[Pet可造成 27 點的傷害]
+NPC防禦：
+[NormalWeapon可抵擋 0 點的傷害]
+USER攻擊後：
+HP of NPC: 774.0
+
+NPC攻擊前：
+HP of USER: 106.0
+NPC攻擊：
+[NormalWeapon可造成 50 點的傷害]
+USER防禦：
+[NormalWeapon可抵擋 5 點的傷害]
+[DoubleWeapon可抵擋 5 點的傷害]
+[PowerWeapon可抵擋 5 點的傷害]
+[Pet可抵擋 0 點的傷害]
+NPC攻擊後：
+HP of USER: 71.0
+
+請選擇: 1.攻擊 2.防禦 3.結束: 1
+
+USER攻擊前：
+HP of NPC: 774.0
+USER攻擊：
+[NormalWeapon可造成 41 點的傷害]
+[DoubleWeapon可造成 51 點的傷害]
+[PowerWeapon可造成 44 點的傷害]
+[Pet可造成 73 點的傷害]
+NPC防禦：
+[NormalWeapon可抵擋 0 點的傷害]
+USER攻擊後：
+HP of NPC: 565.0
+
+NPC攻擊前：
+HP of USER: 71.0
+NPC攻擊：
+[NormalWeapon可造成 50 點的傷害]
+USER防禦：
+[NormalWeapon可抵擋 5 點的傷害]
+[DoubleWeapon可抵擋 5 點的傷害]
+[PowerWeapon可抵擋 5 點的傷害]
+[Pet可抵擋 0 點的傷害]
+NPC攻擊後：
+HP of USER: 36.0
+
+請選擇: 1.攻擊 2.防禦 3.結束: 2
+
+NPC攻擊前：
+HP of USER: 36.0
+NPC攻擊：
+[NormalWeapon可造成 50 點的傷害]
+USER防禦：
+[NormalWeapon可抵擋 5 點的傷害]
+[DoubleWeapon可抵擋 5 點的傷害]
+[PowerWeapon可抵擋 5 點的傷害]
+[Pet可抵擋 0 點的傷害]
+防禦力變為2.0倍
+NPC攻擊後：
+HP of USER: 16.0
+
+USER自我療癒了!
+自我療癒後：HP of USER: 123.0
+
+請選擇: 1.攻擊 2.防禦 3.結束: 1
+
+USER攻擊前：
+HP of NPC: 565.0
+USER攻擊：
+[NormalWeapon可造成 41 點的傷害]
+[DoubleWeapon可造成 51 點的傷害]
+[PowerWeapon可造成 44 點的傷害]
+[Pet可造成 67 點的傷害]
+NPC防禦：
+[NormalWeapon可抵擋 0 點的傷害]
+USER攻擊後：
+HP of NPC: 362.0
+
+NPC攻擊前：
+HP of USER: 123.0
+NPC攻擊：
+[NormalWeapon可造成 50 點的傷害]
+USER防禦：
+[NormalWeapon可抵擋 5 點的傷害]
+[DoubleWeapon可抵擋 5 點的傷害]
+[PowerWeapon可抵擋 5 點的傷害]
+[Pet可抵擋 0 點的傷害]
+NPC攻擊後：
+HP of USER: 88.0
+
+請選擇: 1.攻擊 2.防禦 3.結束: 1
+
+USER攻擊前：
+HP of NPC: 362.0
+USER攻擊：
+[NormalWeapon可造成 41 點的傷害]
+[DoubleWeapon可造成 51 點的傷害]
+[PowerWeapon可造成 44 點的傷害]
+[Pet可造成 58 點的傷害]
+NPC防禦：
+[NormalWeapon可抵擋 0 點的傷害]
+USER攻擊後：
+HP of NPC: 168.0
+
+NPC攻擊前：
+HP of USER: 88.0
+NPC攻擊：
+[NormalWeapon可造成 50 點的傷害]
+USER防禦：
+[NormalWeapon可抵擋 5 點的傷害]
+[DoubleWeapon可抵擋 5 點的傷害]
+[PowerWeapon可抵擋 5 點的傷害]
+[Pet可抵擋 0 點的傷害]
+NPC攻擊後：
+HP of USER: 53.0
+
+請選擇: 1.攻擊 2.防禦 3.結束: 1
+
+USER攻擊前：
+HP of NPC: 168.0
+USER攻擊：
+[NormalWeapon可造成 41 點的傷害]
+[DoubleWeapon可造成 51 點的傷害]
+[PowerWeapon可造成 44 點的傷害]
+[Pet可造成 13 點的傷害]
+NPC防禦：
+[NormalWeapon可抵擋 0 點的傷害]
+USER攻擊後：
+HP of NPC: 19.0
+
+NPC攻擊前：
+HP of USER: 53.0
+NPC攻擊：
+[NormalWeapon可造成 50 點的傷害]
+USER防禦：
+[NormalWeapon可抵擋 5 點的傷害]
+[DoubleWeapon可抵擋 5 點的傷害]
+[PowerWeapon可抵擋 5 點的傷害]
+[Pet可抵擋 0 點的傷害]
+NPC攻擊後：
+HP of USER: 18.0
+
+請選擇: 1.攻擊 2.防禦 3.結束: 1
+
+USER攻擊前：
+HP of NPC: 19.0
+USER攻擊：
+[NormalWeapon可造成 41 點的傷害]
+[DoubleWeapon可造成 51 點的傷害]
+[PowerWeapon可造成 44 點的傷害]
+[Pet可造成 1 點的傷害]
+NPC防禦：
+[NormalWeapon可抵擋 0 點的傷害]
+USER攻擊後：
+HP of NPC: 0.0
+
+玩家擊倒了NPC！

@@ -9,3 +9,4 @@ School Programming Class Source Code
   - [Lesson2 Handouts](https://hackmd.io/@Ateto/S144DaL6a)
   - [Lesson3 Handouts](https://hackmd.io/@Ateto/rkSgN1xRp#/)
   - [Lesson4 Handouts](https://hackmd.io/@Ateto/Bk4903LyA#/)
+- 2024 NTOU CSE sophomore Java Programming Assignment

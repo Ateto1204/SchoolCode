@@ -1,0 +1,6 @@
+Add Product: The Great Gatsby | Price: $15.99 | Quantity: 2 | Author: F. Scott Fitzgerald | Genre: Classic | Subtotal: 28.782
+Add Product: Striped T-Shirt | Price: $29.99 | Quantity: 3 | Size: M | Material: Cotton | Subtotal: 89.97
+Add Product: Java Programming | Price: $49.99 | Quantity: 1 | Author: John Doe | Subtotal: 44.991
+Add Product: Blue Jeans | Price: $39.99 | Quantity: 2 | Size: L | Subtotal: 79.98
+Total Price before Discount: $243.72
+Total Price after Discount: $194.98

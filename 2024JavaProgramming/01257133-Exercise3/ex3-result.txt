@@ -1,0 +1,138 @@
+Please input your choice (0: quit, 1: play, 2: restart, 3: repeat): 1
+You got Queen of Hearts, 12 points.
+You got Six of Hearts, 6 points.
+You got Queen of Spades, 12 points.
+You got Ace of Clubs, 20 points.
+You got Four of Hearts, 4 points.
+Your total points are 54
+
+Please input your choice (0: quit, 1: play, 2: restart, 3: repeat): 1
+You got Seven of Hearts, 7 points.
+You got Nine of Hearts, 9 points.
+You got Nine of Clubs, 9 points.
+You got Four of Clubs, 4 points.
+You got Nine of Spades, 9 points.
+Your total points are 38
+
+Please input your choice (0: quit, 1: play, 2: restart, 3: repeat): 1
+You got Jack of Diamonds, 11 points.
+You got Deuce of Clubs, 2 points.
+You got King of Clubs, 13 points.
+You got Deuce of Spades, 2 points.
+You got Ace of Spades, 20 points.
+Your total points are 48
+
+Please input your choice (0: quit, 1: play, 2: restart, 3: repeat): 1
+You got Deuce of Diamonds, 2 points.
+You got Eight of Diamonds, 8 points.
+You got Ace of Hearts, 20 points.
+You got Seven of Spades, 7 points.
+You got Seven of Clubs, 7 points.
+Your total points are 44
+
+Please input your choice (0: quit, 1: play, 2: restart, 3: repeat): 1
+You got Queen of Diamonds, 12 points.
+You got Ace of Diamonds, 20 points.
+You got Queen of Clubs, 12 points.
+You got Ten of Hearts, 10 points.
+You got Six of Clubs, 6 points.
+Your total points are 60
+
+Please input your choice (0: quit, 1: play, 2: restart, 3: repeat): 1
+You got Eight of Hearts, 8 points.
+You got King of Spades, 13 points.
+You got Seven of Diamonds, 7 points.
+You got Deuce of Hearts, 2 points.
+You got Eight of Spades, 8 points.
+Your total points are 38
+
+Please input your choice (0: quit, 1: play, 2: restart, 3: repeat): 1
+You got Six of Spades, 6 points.
+You got Ten of Spades, 10 points.
+You got Three of Diamonds, 3 points.
+You got King of Diamonds, 13 points.
+You got Jack of Clubs, 11 points.
+Your total points are 43
+
+Please input your choice (0: quit, 1: play, 2: restart, 3: repeat): 1
+You got Four of Diamonds, 4 points.
+You got Five of Diamonds, 5 points.
+You got Ten of Diamonds, 10 points.
+You got Three of Spades, 3 points.
+You got Three of Hearts, 3 points.
+Your total points are 25
+
+Please input your choice (0: quit, 1: play, 2: restart, 3: repeat): 1
+You got Ten of Clubs, 10 points.
+You got Five of Clubs, 5 points.
+You got Jack of Hearts, 11 points.
+You got Four of Spades, 4 points.
+You got Five of Spades, 5 points.
+Your total points are 35
+
+Please input your choice (0: quit, 1: play, 2: restart, 3: repeat): 1
+You got Eight of Clubs, 8 points.
+You got Three of Clubs, 3 points.
+You got Jack of Spades, 11 points.
+You got Six of Diamonds, 6 points.
+You got Nine of Diamonds, 9 points.
+Your total points are 37
+
+Please input your choice (0: quit, 1: play, 2: restart, 3: repeat): 1
+You got King of Hearts, 13 points.
+You got Five of Hearts, 5 points.
+No card can be dealt, please restart the game!
+
+Please input your choice (0: quit, 1: play, 2: restart, 3: repeat): 1
+No card can be dealt, please restart the game!
+
+Please input your choice (0: quit, 1: play, 2: restart, 3: repeat): 3
+You got Queen of Hearts, 12 points.
+You got Six of Hearts, 6 points.
+You got Queen of Spades, 12 points.
+You got Ace of Clubs, 20 points.
+You got Four of Hearts, 4 points.
+Your total points are 54
+
+Please input your choice (0: quit, 1: play, 2: restart, 3: repeat): 1
+You got Seven of Hearts, 7 points.
+You got Nine of Hearts, 9 points.
+You got Nine of Clubs, 9 points.
+You got Four of Clubs, 4 points.
+You got Nine of Spades, 9 points.
+Your total points are 38
+
+Please input your choice (0: quit, 1: play, 2: restart, 3: repeat): 1
+You got Jack of Diamonds, 11 points.
+You got Deuce of Clubs, 2 points.
+You got King of Clubs, 13 points.
+You got Deuce of Spades, 2 points.
+You got Ace of Spades, 20 points.
+Your total points are 48
+
+Please input your choice (0: quit, 1: play, 2: restart, 3: repeat): 2
+You got Three of Spades, 3 points.
+You got Four of Spades, 4 points.
+You got Ten of Diamonds, 10 points.
+You got King of Hearts, 13 points.
+You got Six of Diamonds, 6 points.
+Your total points are 36
+
+Please input your choice (0: quit, 1: play, 2: restart, 3: repeat): 1
+You got Five of Hearts, 5 points.
+You got Eight of Clubs, 8 points.
+You got Three of Hearts, 3 points.
+You got Ten of Spades, 10 points.
+You got Ace of Diamonds, 20 points.
+Your total points are 46
+
+Please input your choice (0: quit, 1: play, 2: restart, 3: repeat): 1
+You got Four of Diamonds, 4 points.
+You got Five of Clubs, 5 points.
+You got Ace of Clubs, 20 points.
+You got Five of Spades, 5 points.
+You got Deuce of Spades, 2 points.
+Your total points are 36
+
+Please input your choice (0: quit, 1: play, 2: restart, 3: repeat): 0
+Game over!!
